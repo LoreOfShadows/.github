@@ -1,1 +1,1 @@
-# .github
+# Lore of Shadows repository
